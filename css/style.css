@@ -248,6 +248,7 @@ body .container .main-toko {
   grid-auto-flow: column;
   overflow-y: scroll;
   gap: 5px;
+  justify-content: space-around;
 }
 body .container .main-toko .container-toko {
   background-color: white;
